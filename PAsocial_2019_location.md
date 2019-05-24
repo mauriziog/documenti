@@ -1,4 +1,4 @@
-PAsocial 2019 - Location
+#PAsocial 2019 - Location
 
 Bagheria - Sede di rappresentanza del Comune, Sala Borremans - Palazzo Butera
 Bologna - Residenza Fioravanti
